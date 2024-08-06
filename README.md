@@ -1,6 +1,5 @@
 # Optimizing-Election-Forecasts-Integrating-Ensemble-Intelligence-In-Data-Analytics
 
-## Project Overview
 This project aims to enhance the accuracy of election forecasts by leveraging social media sentiment analysis. By analyzing public sentiment on Twitter, we aim to predict election outcomes for key nations such as Canada, the United States, and India. The project employs various machine learning models and ensemble techniques to create a robust predictive framework.
 
 ## Objectives
