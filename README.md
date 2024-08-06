@@ -23,5 +23,5 @@ This project aims to enhance the accuracy of election forecasts by leveraging so
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-##Contact 
+## Contact 
 ayushidey20@gmail.com
